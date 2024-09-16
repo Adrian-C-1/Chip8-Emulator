@@ -13,7 +13,7 @@ In order to open a ROM, open with any text editor and read the instructions loca
 The file Files/log.txt is only used for debug purposes.
 
 ## Possible future features:
-Even though there is some room for future improvement (stated bellow), I doubt I will continue working on this project.
+Even though there is some room for future improvement (stated below), I doubt I will continue working on this project.
 - File dialog for choosing the ROM (SDL does not have a way for this, would need another library)
 - Better audio (again, would need another library)
 - Custom keyboard input
